@@ -14,13 +14,21 @@ We are organized as a [collection of individuals][membership] serving on [commit
 
 ## Who Can Join [membership]
 
-Anyone can join our organization. Simply announce yourself to the group via the public list.
+Anyone can join our organization. There is no minimum experience level or expected contribution level to become a non-voting member of the organization. To become a voting member you will need to spend time making significant contributions to a committee (see [voting members][votingEligibility]).
+
+For specific details about how to add yourself to the member roster, see the web site.
 
 ## Open and Friendly to All
 
 Our organization is open to all who share our passion for our mission. It does not discriminate on any basis whatsoever and does not tolerate those who do. Any behavior that is harassing or discriminatory is cause for removal from the organization.
 
 ### The Board [board]
+
+The Board coordinates the activities of the organization. It attempts to align the activities of the organization with the mission of the organization. The Board may also be called upon to break stalemates when [committees][committees] fail to reach consensus.
+
+The Board serves the community. Therefore, it is not expected to make major decisions without consulting the membership. There are many smaller, day-to-day decisions that the Board may need to make which the membership gladly delegates to the Board.
+
+The Board also has the credentials for the GitHub repository and social accounts.
 
 #### Founding Board
 
@@ -55,21 +63,13 @@ Here is the Board election process:
 3. The campaigning phase starts immediately after the nomination phase and lasts no more than two weeks. During the campaigning period candidates may choose to introduce themselves to the community and explain why they would make a good board member. This should be limited to a single email to the public list. Spamming the community is likely a poor strategy. After the end of the campaigning phase candidates must stop using the public list to promote their candidacy.
 4. The final phase, voting, begins immediately after the campaigning phase and lasts two weeks. During this phase votes are submitted by voting members (TBD: to whom and whether or not this is public is to be discussed). Voting members are free to change their vote until the voting phase ends. At the end of the voting phase the votes are tabulated and the new Board is announced. The new Board is expected to be "seated" and functioning within 7 days of the official results announcement.
 
-#### Removing a Board Member Involunarily
+#### Removing a Board Member Involuntarily
 
 A Board member can be forcibly removed from the Board by a two-thirds majority vote from all known voting members.
 
 #### Interim Board Elections
 
 Should a Board member resign or otherwise become unable to perform their duties, the remaining Board members will set dates for an interim election which follows the same process as a normal [Board election][boardElections] but is limited to replacing the outgoing Board member.
-
-#### Duties of Board Members
-
-The Board coordinates the activities of the organization. It attempts to align the activities of the organization with the mission of the organization. The Board may also be called upon to break stalemates when [committees][committees] fail to reach consensus.
-
-The Board serves the community. Therefore, it is not expected to make major decisions without consulting the membership. There are many smaller, day-to-day decisions that the Board may need to make which the membership gladly delegates to the Board.
-
-The Board also has the credentials for the GitHub repository and social accounts.
 
 #### Board Member Compensation
 
@@ -115,29 +115,35 @@ A vote passes if it obtains a simple majority of the votes cast.
 
 #### Voting Eligibility [votingEligibility]
 
-With regard to voting there are two types of members: Voting Members and Non-Voting Members.
-
-#### Voting Members
-
-You must be a "voting member" to cast a binding vote in any general vote, committee vote, or Board election. The following are qualifications that must be met for voting members:
-
-1. You must have introduced yourself via the public list.
-2. You must be listed on the web site as either a Board member or an independent member.
-3. You must not be an employee of Alfresco Software, Inc. or any of its divisions or subsidiaries. Employees of formal business partners, however, are eligible if the other qualifications are met.
+With regard to voting there are two types of members: Non-Voting Members and Voting Members. Both are members of the organization. The only difference, as the name suggests, is whether or not the individual can cast a vote.
 
 #### Non-Voting Members
 
-All employees of Alfresco Software, Inc. or any of its divisions or subsidiaries who join the organization are automatically non-voting members.
+All members start as non-voting members. Non-members are encouraged to show their support of and contribute to the organization by working on one or more committees.
 
-If, for some reason, an individual wants to join the organization but be considered a non-voting member, they can do so by informing the public list.
+#### Voting Members [votingMembers]
+
+You must be a "voting member" to cast a binding vote in any general vote, committee vote, or Board election. The following are qualifications that must be met for voting members:
+
+1. A voting member must be an individual, not a collection of individuals.
+2. A voting member must have a verifiable identity. We do not allow anonymous members or members who use pseudonyms.
+3. A voting member must not be an employee of Alfresco Software, Inc. or any of its divisions or subsidiaries. Employees of formal business partners, however, are eligible if the other qualifications are met.
+
+#### Becoming a Voting Member
+
+A voting member can propose that a non-voting member be changed to a voting member once they've proven themselves by working on a committee. The voting member does this by sending an email to a list that is private to existing voting members. The existing voting members discuss whether or not that person has made enough contributions to the Order (not only to the Alfresco community, but to the Order, specifically) to be made into voting members, and they hold a vote on the private list. If this vote passes, they are now voting members.
 
 #### Eligibility Changes
 
 It is important that the list of voting members be kept reasonably up-to-date. From time-to-time, the Board or one of its designated Committees may determine that someone who was previously a voting member is no longer active in the organization and should therefore be considered a non-voting member. This can only take place after a reasonable attempt is made to contact the individual to discern their status, and, having failed to receive a response (or hearing directly from the individual that they no longer wish to be considered a voting member) the member's status will then be changed.
 
-Non-voting members can become voting members when they meet the [voting eligibility][votingEligibility] rules.
+Any time a member's voting eligibility changes it must be announced to the group via the public list.
 
-Any time a member's voting eligibility changes it must be announced to the group.
+When someone becomes a voting member they must be listed on the web site as such. If someone changes from a voting member to a non-voting member their status will be changed to show that they are a non-voting member. It is up to that specific member whether or not to continue to be listed on the web site as a member.
+
+## Non-Commercial
+
+This is not a commercial organization. We do not sell goods or services. The organization does not seek to prevent individual members of the organization or employers of those individuals from pursuing their own commercial interests.
 
 ## Changes to the By-Laws
 
