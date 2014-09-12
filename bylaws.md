@@ -14,7 +14,7 @@ We are organized as a [collection of individuals][membership] serving on [commit
 
 ## Who Can Join [membership]
 
-Anyone can join our organization. There is no minimum experience level or expected contribution level to become a non-voting member of the organization. To become a voting member you will need to spend time making significant contributions to a committee (see [voting members][votingEligibility]).
+Anyone who wants to contribute to the community can join our organization. There is no minimum experience level required to join, so your contribution can be either technical or not. To become a voting member you will need to spend time making significant contributions to a committee (see [voting members][votingEligibility]).
 
 For specific details about how to add yourself to the member roster, see the web site.
 
@@ -24,7 +24,7 @@ Our organization is open to all who share our passion for our mission. It does n
 
 ### The Board [board]
 
-The Board coordinates the activities of the organization. It attempts to align the activities of the organization with the mission of the organization. The Board may also be called upon to break stalemates when [committees][committees] fail to reach consensus.
+The Board consists of exactly five individuals. The Board coordinates the activities of the organization. It attempts to align the activities of the organization with the mission of the organization. The Board may also be called upon to break stalemates when [committees][committees] fail to reach consensus.
 
 The Board serves the community. Therefore, it is not expected to make major decisions without consulting the membership. There are many smaller, day-to-day decisions that the Board may need to make which the membership gladly delegates to the Board.
 
