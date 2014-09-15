@@ -1,6 +1,6 @@
 #Order of the Bee By-Laws
 
-This is a draft document. Feedback is welcome.
+These by-laws were ratified by a unanimous decision of the founding Board on September 15, 2014.
 
 ## Scope
 
@@ -46,7 +46,7 @@ More information on these individuals can be found on the web site.
 
 #### Board Elections [boardElections]
 
-Board elections take place every two years. To be considered, a candidate must be a [voting member][votingEligibility] and must first be nominated by a voting member no later than the end of the nomination period. Candidates cannot nominate themselves.
+Board elections take place every year. To be considered, a candidate must be a [voting member][votingEligibility] and must first be nominated by a voting member no later than the end of the nomination period. Candidates cannot nominate themselves.
 
 Other than being a voting member, there are no minimum qualifications for Board members, but it is generally assumed that successful candidates will have demonstrated significant public commitment to the Alfresco community and this organization.
 
@@ -61,7 +61,7 @@ Here is the Board election process:
 1. At least 90 days before the election period begins, the Board will announce the election timeline which includes the dates for each of the three phases.
 2. At least 30 days before the campaining phase, a nomination period begins. During this period voting members may nominate a candidate by sending an email to the public list. The nominee may accept or decline, but they must accept via the public list. If the nominee fails to publicly accept the nomination before the end of the nomination period, they cannot be considered as a candidate in the current election cycle. At the end of the nomination period, no more nominations are accepted.
 3. The campaigning phase starts immediately after the nomination phase and lasts no more than two weeks. During the campaigning period candidates may choose to introduce themselves to the community and explain why they would make a good board member. This should be limited to a single email to the public list. Spamming the community is likely a poor strategy. After the end of the campaigning phase candidates must stop using the public list to promote their candidacy.
-4. The final phase, voting, begins immediately after the campaigning phase and lasts two weeks. During this phase votes are submitted by voting members (TBD: to whom and whether or not this is public is to be discussed). Voting members are free to change their vote until the voting phase ends. At the end of the voting phase the votes are tabulated and the new Board is announced. The new Board is expected to be "seated" and functioning within 7 days of the official results announcement.
+4. The final phase, voting, begins immediately after the campaigning phase and lasts two weeks. During this phase votes are submitted by voting members. Voting members are free to change their vote until the voting phase ends. At the end of the voting phase the votes are tabulated and the new Board is announced. The new Board is expected to be "seated" and functioning within 7 days of the official results announcement.
 
 #### Removing a Board Member Involuntarily
 
@@ -144,6 +144,10 @@ When someone becomes a voting member they must be listed on the web site as such
 ## Non-Commercial
 
 This is not a commercial organization. We do not sell goods or services. The organization does not seek to prevent individual members of the organization or employers of those individuals from pursuing their own commercial interests.
+
+## Contributions & Sponsorships
+
+The Order does not accept monetary contributions at this time, but we welcome sponsorships and donations of goods and services. See the web site for more details.
 
 ## Changes to the By-Laws
 
