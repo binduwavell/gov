@@ -7,14 +7,14 @@ Last Update: May 2.
 ## Candidates
 
 - **Jeff Potts** (Nominated by Angel Borroy)
-- **Tahir Maliki** (N. by Oksana Kurysheva)
+- **Tahir Malik** (N. by Oksana Kurysheva)
 - **Martin Cosgrave** (N. by Boriss Mejías)
+- **Oksana Kurysheva** (N. by Jeff Potts)
 
 ## Nominated - Waiting for Acceptance/Declination
 
 - Axel Faust (N. by Martin Cosgrave)
-- Oksana Kurysheva (N. by Jeff Potts)
-- Boriss Mejías (N. by Douglas C.R. Paes??)
+- Boriss Mejías (N. by Douglas C.R. Paes)
 
 ## Declined Nominations.
 
