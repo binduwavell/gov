@@ -8,13 +8,15 @@ Last Update: May 2.
 
 - **Jeff Potts** (Nominated by Angel Borroy)
 - **Tahir Malik** (N. by Oksana Kurysheva)
-- **Martin Cosgrave** (N. by Boriss Mejías)
+- **Martin Cosgrave** (N. by Lanre Abiwon)
 - **Oksana Kurysheva** (N. by Jeff Potts)
+- **Axel Faust** (N. by Martin Cosgrave)
+- **Boriss Mejías** (N. by Douglas C.R. Paes)
 
 ## Nominated - Waiting for Acceptance/Declination
 
-- Axel Faust (N. by Martin Cosgrave)
-- Boriss Mejías (N. by Douglas C.R. Paes)
+- **Angel Borroy** (N. by Boriss Mejías)
+- **Heikko Robert** (N. by Boriss Mejías)
 
 ## Declined Nominations.
 
