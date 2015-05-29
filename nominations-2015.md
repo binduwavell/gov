@@ -15,9 +15,9 @@ Last Update: May 2.
 
 ## Nominated - Waiting for Acceptance/Declination
 
-- **Angel Borroy** (N. by Boriss Mejías)
+
 - **Heikko Robert** (N. by Boriss Mejías)
 
 ## Declined Nominations.
 
-- None
+- **Angel Borroy** (N. by Boriss Mejías)
