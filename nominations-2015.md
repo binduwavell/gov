@@ -2,7 +2,7 @@
 
 Open from April 28 until May 27.
 
-Last Update: May 2. 
+Last Update: June 10, based on the emails until May 27. 
 
 ## Candidates
 
@@ -12,11 +12,11 @@ Last Update: May 2.
 - **Oksana Kurysheva** (N. by Jeff Potts)
 - **Axel Faust** (N. by Martin Cosgrave)
 - **Boriss Mejías** (N. by Douglas C.R. Paes)
+- **Heikko Robert** (N. by Boriss Mejías)
 
 ## Nominated - Waiting for Acceptance/Declination
 
-
-- **Heikko Robert** (N. by Boriss Mejías)
+- There were no open nominations.
 
 ## Declined Nominations.
 
