@@ -12,7 +12,7 @@ Last Update: June 10, based on the emails until May 27.
 - **Oksana Kurysheva** (N. by Jeff Potts)
 - **Axel Faust** (N. by Martin Cosgrave)
 - **Boriss Mejías** (N. by Douglas C.R. Paes)
-- **Heikko Robert** (N. by Boriss Mejías)
+- **Heiko Robert** (N. by Boriss Mejías)
 
 ## Nominated - Waiting for Acceptance/Declination
 
