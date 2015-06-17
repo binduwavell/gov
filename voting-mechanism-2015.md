@@ -54,14 +54,16 @@ R = Ranking
 V = Number of votes
 P = Arithmetic mean priority
 
-R  V  P  Candidate
--- - --- -------------------
-1. 2 1.5 Arthur Dent
-2. 2 2.5 Trillian
-3. 2 3.0 Zaphod Beeblebrox
-4. 2 4.0 Ford Prefect 
-5. 1 3.0 Slartibartfast
-6. 1 5.0 Marvin
+<pre>
+R  V   P   Candidate
+-  -  ---  -------------------
+1  2  1.5  Arthur Dent
+2  2  2.5  Trillian
+3  2  3.0  Zaphod Beeblebrox
+4  2  4.0  Ford Prefect 
+5  1  3.0  Slartibartfast
+6  1  5.0  Marvin
+</pre>
 
 Which means that Marvin is out of the Board. He has the same amount of votes as
 Slartibartfast, but Slartibartfast has a better average priority. Marvin, the
