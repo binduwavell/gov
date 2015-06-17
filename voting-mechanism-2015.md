@@ -33,19 +33,19 @@ Here is an example of an election with only 2 votes.
 
 *Vote 1*
 
-1- Zaphod Beeblebrox
-2- Arthur Dent
-3- Trillian
-4- Ford Prefect
-5- Marvin
+1. Zaphod Beeblebrox
+2. Arthur Dent
+3. Trillian
+4. Ford Prefect
+5. Marvin
 
 *Vote 2*
 
-1- Arthur Dent
-2- Trillian
-3- Slartibartfast
-4- Ford Prefect
-5- Zaphod Beeblebrox
+1. Arthur Dent
+2. Trillian
+3. Slartibartfast
+4. Ford Prefect
+5. Zaphod Beeblebrox
 
 That gives us the following ranking ordered by number of votes, and then by
 average priority:
@@ -54,14 +54,14 @@ R = Ranking
 V = Number of votes
 P = Arithmetic mean priority
 
-R V P   Candidate
-- - --- -------------------
-1 2 1.5 Arthur Dent
-2 2 2.5 Trillian
-3 2 3.0 Zaphod Beeblebrox
-4 2 4.0 Ford Prefect 
-5 1 3.0 Slartibartfast
-6 1 5.0 Marvin
+R  V  P  Candidate
+-- - --- -------------------
+1. 2 1.5 Arthur Dent
+2. 2 2.5 Trillian
+3. 2 3.0 Zaphod Beeblebrox
+4. 2 4.0 Ford Prefect 
+5. 1 3.0 Slartibartfast
+6. 1 5.0 Marvin
 
 Which means that Marvin is out of the Board. He has the same amount of votes as
 Slartibartfast, but Slartibartfast has a better average priority. Marvin, the
