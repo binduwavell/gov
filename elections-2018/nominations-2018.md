@@ -2,9 +2,9 @@
 
 Open from April 30 until May 30.
 
-Last Update: May 30, based on the emails until May 30, Baker Island Time zone. 
+Last Update: May 31, based on the emails until May 30, Baker Island Time zone. 
 
-## Candidates (6)
+## Candidates
 
 - **Axel Faust** (N. by Angel Borroy)
 - **Daren Firminger** (N. by Richard Esplin)
@@ -13,14 +13,17 @@ Last Update: May 30, based on the emails until May 30, Baker Island Time zone.
 - **Sujay Pillai** (N. by Richard Esplin)
 - **Younes Regaieg** (N. by Oksana Kurysheva)
 
-## Nominated - Waiting for Acceptance/Declination (4)
+## Nominated - Waiting for Acceptance/Declination
+
+These nominees cannot be considered as candidates, as they didn't accept the
+nomination in due time.
 
 - **Charles Le Seac'h** (N. by Richard Esplin)
 - **Heiko Robert** (N. by Richard Esplin)
 - **Peter Löfgren** (N. by Sujay Pillai)
 - **Tahir Malik** (N. by Sujay Pillai)
 
-## Declined Nominations (7)
+## Declined Nominations
 
 - **Angel Borroy** (N. by Oksana Kurysheva)
 - **Bindu Wavell** (N. by Angel Borroy)
@@ -29,9 +32,3 @@ Last Update: May 30, based on the emails until May 30, Baker Island Time zone.
 - **Lanre Abiwon** (N. by Daren Firminger)
 - **Oksana Kurysheva** (N. by Boriss Mejías)
 - **Richard Esplin** (N. by Boriss Mejías)
-
-## Open for Nomination (3)
-
-- Cristina Martin
-- Martin Cosgrave
-- Olivier Anh
