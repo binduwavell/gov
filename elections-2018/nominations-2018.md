@@ -2,7 +2,7 @@
 
 Open from April 30 until May 30.
 
-Last Update: May 28, based on the emails until May 27, Baker Island Time zone. 
+Last Update: May 30, based on the emails until May 30, Baker Island Time zone. 
 
 ## Candidates (6)
 
@@ -13,19 +13,18 @@ Last Update: May 28, based on the emails until May 27, Baker Island Time zone.
 - **Sujay Pillai** (N. by Richard Esplin)
 - **Younes Regaieg** (N. by Oksana Kurysheva)
 
-## Nominated - Waiting for Acceptance/Declination (5)
+## Nominated - Waiting for Acceptance/Declination (4)
 
-- **Boriss Mejías** (N. by Younes Regaieg)
 - **Charles Le Seac'h** (N. by Richard Esplin)
 - **Heiko Robert** (N. by Richard Esplin)
 - **Peter Löfgren** (N. by Sujay Pillai)
 - **Tahir Malik** (N. by Sujay Pillai)
 
-
-## Declined Nominations (6)
+## Declined Nominations (7)
 
 - **Angel Borroy** (N. by Oksana Kurysheva)
 - **Bindu Wavell** (N. by Angel Borroy)
+- **Boriss Mejías** (N. by Younes Regaieg)
 - **Jeff Potts** (N. by Angel Borroy)
 - **Lanre Abiwon** (N. by Daren Firminger)
 - **Oksana Kurysheva** (N. by Boriss Mejías)
