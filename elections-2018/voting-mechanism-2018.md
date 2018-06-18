@@ -1,4 +1,4 @@
-#How to vote for the Board elections
+# How to vote for the Board elections
 
 Here is a description about how the vote is made for the elections of the Board.
 
@@ -9,7 +9,7 @@ Here is a description about how the vote is made for the elections of the Board.
 
 - Omissions are allowed.
 
-#Closing the elections
+# Closing the elections
 
 Once the voting period is closed, candidates are sorted by two parameters in
 this order:
@@ -20,14 +20,14 @@ this order:
 
 The first 5 members are elected as the Board.
 
-#Draws
+# Draws
 
 The only important draw occurs when the Board cannot be determined. For
 instance, when there is a draw between the 5th and the 6th position. In such
 case, a new election needs to be run as tie-break where votes will be emitted
 only for those candidates drawing.
 
-#Example
+# Example
 
 Here is an example of an election with only 2 votes.
 
